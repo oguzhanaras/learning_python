@@ -27,3 +27,18 @@ print("txt merhaba aras".split(" "))
 # strip str baş ve sonunda belirtilen ifadeyi kırpar
 name = "  BilgeAdam  "
 print(name.strip())
+
+
+# replace
+txt = "i like banana"
+print(txt.replace("banana", "apple"))
+
+# count
+passw = "aras158533.23"
+print(passw.count("a"))
+
+
+# join
+my_list = ["ali", "veli", "mehmet"]
+print("&".join(my_list))
+
