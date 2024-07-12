@@ -4,11 +4,11 @@
 
 def ebob(sayi1, sayi2):
     bolumler = []
-    for i in range(sayi1 + 1):
-        if sayi1 % 2 == 0:
+    for i in range(1, sayi1 + 1):
+        if sayi1 % i == 0:
             bolumler.append(i)
-    for x in range(sayi2 + 1):
-        if sayi1 % 2 == 0:
+    for x in range(1, sayi2 + 1):
+        if sayi2 % x == 0:
             bolumler.append(x)
     for j in bolumler[::-1]:
         if bolumler.count(j) == 2:
