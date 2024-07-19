@@ -11,29 +11,75 @@ user_data = {
     'Isabella': {'Tetris': 35, 'Minecraft': 60, 'FIFA': 45}
 }
 
-minecraft = 0
-tetris = 0
-amongus = 0
-valorant = 0
-callofduty = 0
-fifa = 0
+info = {
+    "minecraft": {
+        "sure": 0,
+        "kisi": 0
+    },
+    "tetris": {
+        "sure": 0,
+        "kisi": 0
+    },
+    "amongus": {
+        "sure": 0,
+        "kisi": 0
+    },
+    "valorant": {
+        "sure": 0,
+        "kisi": 0
+    },
+    "callofduty": {
+        "sure": 0,
+        "kisi": 0
+    },
+    "fifa": {
+        "sure": 0,
+        "kisi": 0
+    }
+}
+toplam = 0
 
 for key, value in user_data.items():
     for item in value.items():
-        print(item[0])
         if item[0] == "Minecraft":
-            minecraft += item[1]
-        elif item[0] == "Among Us":
-            amongus += item[1]
-        elif item[0] == "Valorant":
-            valorant += item[1]
-        elif item[0] == "FIFA":
-            fifa += item[1]
-        elif item[0] == "Tetris":
-            tetris += item[1]
-        else:
-            callofduty += item[1]
+            info["minecraft"]["sure"] += item[1]
+            info["minecraft"]["kisi"] += 1
+            toplam += item[1]
 
-print(f"minecraft: {minecraft}, tetris: {tetris}, amongus: {amongus}, valorant: {valorant}, fifa: {fifa}, "
-      f"callofduty: {callofduty}")
-print(f"toplam oyun saati: {fifa + amongus + valorant + callofduty + tetris}")
+        elif item[0] == "Among Us":
+            info["amongus"]["sure"] += item[1]
+            info["amongus"]["kisi"] += 1
+            toplam += item[1]
+
+        elif item[0] == "Valorant":
+            info["valorant"]["sure"] += item[1]
+            info["valorant"]["kisi"] += 1
+            toplam += item[1]
+
+        elif item[0] == "FIFA":
+            info["fifa"]["sure"] += item[1]
+            info["fifa"]["kisi"] += 1
+            toplam += item[1]
+
+        elif item[0] == "Tetris":
+            info["tetris"]["sure"] += item[1]
+            info["tetris"]["kisi"] += 1
+            toplam += item[1]
+        else:
+            info["callofduty"]["sure"] += item[1]
+            info["callofduty"]["kisi"] += 1
+            toplam += item[1]
+
+a = 0
+b = ""
+for key, value in info.items():
+    if value["sure"] > a:
+        a = value["sure"]
+        b = key
+
+print(f"minecraft: {info["minecraft"]["sure"]}, tetris: {info["tetris"]["sure"]}, amongus: {info["amongus"]["sure"]},"
+      f" valorant: {info["valorant"]["sure"]}, fifa: {info["fifa"]["sure"]}, "
+      f"callofduty: {info["callofduty"]["sure"]}")
+
+print(f"toplam oyun saati: {toplam}")
+print(f"en cok oynanan oyun {b}, saati: {a}")
