@@ -29,7 +29,7 @@ result = mycursor.fetchall()
 for x in result:
     print(x)
 
-# sql injection
+# sqlite injection
 sql = "SELECT * FROM customers WHERE address = %s"
 adr = ("Yellow Garden 2", )
 

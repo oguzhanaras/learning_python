@@ -1,0 +1,4 @@
+example@xyz.com
+example.com
+@xyz.com
+example2@xyz.com
