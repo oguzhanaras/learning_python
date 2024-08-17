@@ -1,5 +1,5 @@
 import ui
-from bilgeadam.lessons.cart_app.cart import Cart
+from cart import Cart
 from product import Product
 
 
@@ -22,23 +22,19 @@ def main():
             ui.display_products(products)
 
         elif choice == 2:
-            p_name, quantity = ui.get_product_choice(products)
-            if p_name and quantity:
-                mycart.add(p_name, quantity)
-                print(p_name, quantity)
-            else:
-                print("boyle urun yok")
+            product, quantity = ui.get_product_choice(products)
+            if product and quantity > 0:
+                if mycart.add(product, quantity):
+                    print(f"{quantity} adet {product.name} sepete eklendi.")
+                else:
+                    print(f"{product.name} - Stok yetersiz!")
 
         elif choice == 3:
             product, quantity = ui.get_product_choice(products)
-
-            if product and quantity:
-                if mycart.remove(product, quantity):
-                    print(f"{quantity} adet {product} sepetten çıkarıldı.")
-                else:
-                    print("Sepette yeterli miktar yok veya ürün mevcut değil.")
+            if mycart.remove(product, quantity):
+                print(f"{quantity} adet {product.name} sepetten çıkarıldı.")
             else:
-                print("cıkarmak istediğiniz urun depoda yok")
+                print(f"{product.name} - Sepette yeterli miktar yok veya ürün mevcut değil.")
 
         elif choice == 4:
             print(mycart)

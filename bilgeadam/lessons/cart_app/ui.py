@@ -20,10 +20,7 @@ def get_product_choice(products: list):
     product_quantity = int(input("Miktar: "))
 
     for product in products:
-        if product_name == product.name:
-            return product.name, product_quantity
-        else:
-            continue
-    p_name = False
-    quantity = False
-    return p_name, quantity
+        if product.name.lower() == product_name.lower():
+            return product, product_quantity
+        return None
+

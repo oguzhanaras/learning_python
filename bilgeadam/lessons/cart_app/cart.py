@@ -14,9 +14,7 @@ class Cart:
         return False
 
     def remove(self, product, quantity=1):
-        if product and quantity:
-            return True
-        return False
+        pass
 
     def total(self):
         grand_total = 0
