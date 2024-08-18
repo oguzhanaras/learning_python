@@ -24,6 +24,7 @@ print(s1)
 str(s1)
 repr(s1)
 
+
 # Instructor isimli bir sınıf oluşturalım
 class Instructor:
     def __init__(self, name, age):
