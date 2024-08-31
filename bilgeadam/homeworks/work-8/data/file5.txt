@@ -1,0 +1,10 @@
+Python supports both procedural and functional programming paradigms.
+SciPy provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems.
+The Python standard library provides a wide range of modules.
+TensorFlow is used for deep learning models.
+Decorators in Python are a powerful way to modify function behavior.
+Requests is a simple HTTP library for Python.
+Seaborn helps you explore and understand your data.
+The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis" and was created by Wes McKinney in 2008.
+BeautifulSoup is used for web scraping.
+The name 'Keras' derives from the Ancient Greek word κέρας (Keras) meaning 'horn'.

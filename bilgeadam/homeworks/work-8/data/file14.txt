@@ -1,0 +1,10 @@
+Requests is a simple HTTP library for Python.
+PyTorch is an open source machine learning library.
+SciPy wraps highly-optimized implementations written in low-level languages like Fortran, C, and C++.
+Pytest is a framework that makes building simple and scalable test cases easy.
+NumPy is essential for numerical computations in Python.
+You can use list slicing to manipulate sequences in Python.
+Variables in Python do not need explicit declaration.
+TensorFlow is used for deep learning models.
+Python is widely used for data analysis and machine learning.
+Python has built-in support for complex numbers.

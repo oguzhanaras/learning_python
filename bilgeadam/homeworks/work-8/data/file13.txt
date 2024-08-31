@@ -1,0 +1,10 @@
+Matplotlib supplies non-linear scales, such as a log-scale.
+TensorFlow is used for deep learning models.
+Python uses indentation to define code blocks.
+SciPy extends Python’s capabilities in scientific computing.
+BeautifulSoup is used for web scraping.
+Some well-known sites that use Django include Instagram, Mozilla, Disqus, Bitbucket, Nextdoor and Clubhouse.
+Keras is a user-friendly API for TensorFlow.
+Scikit-learn is a machine learning library for Python.
+Dictionaries in Python are key-value pairs stored in a hash map.
+Python's 'with' statement simplifies file handling.

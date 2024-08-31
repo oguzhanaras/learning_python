@@ -1,0 +1,10 @@
+Python's 'import' statement is used to include modules in your code.
+BeautifulSoup is used for web scraping.
+Python has built-in support for complex numbers.
+Requests is a simple HTTP library for Python.
+Python uses indentation to define code blocks.
+You can use list slicing to manipulate sequences in Python.
+Scikit-learn is a machine learning library for Python.
+Flask is a lightweight WSGI web application framework.
+Generators in Python allow you to iterate over data lazily.
+TensorFlow is used for deep learning models.

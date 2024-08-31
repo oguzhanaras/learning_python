@@ -1,0 +1,6 @@
+Functions in Python can return multiple values.
+Scikit-learn is a machine learning library for Python.
+Python supports both procedural and functional programming paradigms.
+Requests is a simple HTTP library for Python.
+List comprehensions in Python offer a concise way to create lists.
+NumPy is essential for numerical computations in Python.

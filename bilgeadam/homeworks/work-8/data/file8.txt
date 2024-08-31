@@ -1,0 +1,10 @@
+Variables in Python do not need explicit declaration.
+Python is a versatile programming language.
+You can use list slicing to manipulate sequences in Python.
+Python supports object-oriented programming.
+Python supports both procedural and functional programming paradigms.
+Decorators in Python are a powerful way to modify function behavior.
+SciPy’s high level syntax makes it accessible and productive for programmers from any background or experience level.
+PyTorch defines a module called nn (torch.nn) to describe neural networks and to support training.
+Python uses indentation to define code blocks.
+Scikit-learn is a machine learning library for Python.

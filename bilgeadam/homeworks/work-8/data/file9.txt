@@ -1,0 +1,10 @@
+Functions in Python can return multiple values.
+Dictionaries in Python are key-value pairs stored in a hash map.
+Pytest is a framework that makes building simple and scalable test cases easy.
+Decorators in Python are a powerful way to modify function behavior.
+Matplotlib has a built-in TeX expression parser and layout engine, and ships its own math fonts.
+Python's 'with' statement simplifies file handling.
+Exception handling in Python is done using try-except blocks.
+Generators in Python allow you to iterate over data lazily.
+SQLAlchemy is a SQL toolkit and Object-Relational Mapping library.
+Python uses indentation to define code blocks.

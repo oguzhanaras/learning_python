@@ -1,0 +1,10 @@
+Django's primary goal is to ease the creation of complex, database-driven websites.
+Exception handling in Python is done using try-except blocks.
+Python has built-in support for complex numbers.
+TensorFlow is used for deep learning models.
+Matplotlib has a very flexible array of colors that are accepted for most Artists.
+The 'for' loop in Python can iterate over any iterable object.
+Pandas allows us to analyze big data and make conclusions based on statistical theories.
+Decorators in Python are a powerful way to modify function behavior.
+PyTorch is an optimized tensor library for deep learning using GPUs and CPUs.
+Functions in Python can return multiple values.

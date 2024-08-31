@@ -1,0 +1,10 @@
+Keras is an open-source library that provides a Python interface for artificial neural networks.
+Python supports object-oriented programming.
+TensorFlow is used for deep learning models.
+Requests is a simple HTTP library for Python.
+Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+Python is a versatile programming language.
+Python uses indentation to define code blocks.
+SQLAlchemy is a SQL toolkit and Object-Relational Mapping library.
+Exception handling in Python is done using try-except blocks.
+Flask is a lightweight WSGI web application framework.

@@ -1,0 +1,99 @@
+file1.txt (Line 1): Functions in Python can return multiple values.
+file1.txt (Line 3): Scikit-learn is a machine learning library for Python.
+file1.txt (Line 4): Python supports both procedural and functional programming paradigms.
+file1.txt (Line 5): Requests is a simple HTTP library for Python.
+file1.txt (Line 6): List comprehensions in Python offer a concise way to create lists.
+file1.txt (Line 7): NumPy is essential for numerical computations in Python.
+file10.txt (Line 1): Python's 'import' statement is used to include modules in your code.
+file10.txt (Line 3): Python has built-in support for complex numbers.
+file10.txt (Line 4): Requests is a simple HTTP library for Python.
+file10.txt (Line 5): Python uses indentation to define code blocks.
+file10.txt (Line 6): You can use list slicing to manipulate sequences in Python.
+file10.txt (Line 7): Scikit-learn is a machine learning library for Python.
+file10.txt (Line 9): Generators in Python allow you to iterate over data lazily.
+file11.txt (Line 1): Python's lambda functions provide a way to create small anonymous functions.
+file11.txt (Line 2): The 'def' keyword is used to define functions in Python.
+file11.txt (Line 5): Python's 'import' statement is used to include modules in your code.
+file11.txt (Line 6): Python supports object-oriented programming.
+file11.txt (Line 7): Variables in Python do not need explicit declaration.
+file11.txt (Line 10): The 'for' loop in Python can iterate over any iterable object.
+file12.txt (Line 1): Generators in Python allow you to iterate over data lazily.
+file12.txt (Line 3): Python's 'import' statement is used to include modules in your code.
+file12.txt (Line 4): List comprehensions in Python offer a concise way to create lists.
+file12.txt (Line 6): Scikit-learn is a machine learning library for Python.
+file12.txt (Line 7): Variables in Python do not need explicit declaration.
+file12.txt (Line 8): Python uses indentation to define code blocks.
+file12.txt (Line 9): Python has built-in support for complex numbers.
+file12.txt (Line 10): Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface.
+file13.txt (Line 3): Python uses indentation to define code blocks.
+file13.txt (Line 4): SciPy extends Python’s capabilities in scientific computing.
+file13.txt (Line 8): Scikit-learn is a machine learning library for Python.
+file13.txt (Line 9): Dictionaries in Python are key-value pairs stored in a hash map.
+file13.txt (Line 10): Python's 'with' statement simplifies file handling.
+file14.txt (Line 1): Requests is a simple HTTP library for Python.
+file14.txt (Line 5): NumPy is essential for numerical computations in Python.
+file14.txt (Line 6): You can use list slicing to manipulate sequences in Python.
+file14.txt (Line 7): Variables in Python do not need explicit declaration.
+file14.txt (Line 9): Python is widely used for data analysis and machine learning.
+file14.txt (Line 10): Python has built-in support for complex numbers.
+file15.txt (Line 1): Generators in Python allow you to iterate over data lazily.
+file15.txt (Line 2): Python supports object-oriented programming.
+file15.txt (Line 3): Exception handling in Python is done using try-except blocks.
+file15.txt (Line 4): Functions in Python can return multiple values.
+file15.txt (Line 5): Python is a versatile programming language.
+file15.txt (Line 8): Python's 'import' statement is used to include modules in your code.
+file15.txt (Line 9): Python is widely used for data analysis and machine learning.
+file15.txt (Line 10): You can use list slicing to manipulate sequences in Python.
+file2.txt (Line 1): Keras is an open-source library that provides a Python interface for artificial neural networks.
+file2.txt (Line 2): Python supports object-oriented programming.
+file2.txt (Line 4): Requests is a simple HTTP library for Python.
+file2.txt (Line 5): Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+file2.txt (Line 6): Python is a versatile programming language.
+file2.txt (Line 7): Python uses indentation to define code blocks.
+file2.txt (Line 9): Exception handling in Python is done using try-except blocks.
+file3.txt (Line 2): Decorators in Python are a powerful way to modify function behavior.
+file3.txt (Line 3): Python supports both procedural and functional programming paradigms.
+file3.txt (Line 4): Python supports object-oriented programming.
+file3.txt (Line 7): Python's 'with' statement simplifies file handling.
+file3.txt (Line 8): Django is a high-level Python web framework.
+file3.txt (Line 9): Variables in Python do not need explicit declaration.
+file4.txt (Line 1): NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
+file4.txt (Line 2): Python supports both procedural and functional programming paradigms.
+file4.txt (Line 3): Python uses indentation to define code blocks.
+file4.txt (Line 5): Generators in Python allow you to iterate over data lazily.
+file4.txt (Line 6): Python's 'import' statement is used to include modules in your code.
+file4.txt (Line 7): List comprehensions in Python offer a concise way to create lists.
+file4.txt (Line 8): Scikit-learn is a machine learning library for Python.
+file4.txt (Line 9): The 'for' loop in Python can iterate over any iterable object.
+file5.txt (Line 1): Python supports both procedural and functional programming paradigms.
+file5.txt (Line 3): The Python standard library provides a wide range of modules.
+file5.txt (Line 5): Decorators in Python are a powerful way to modify function behavior.
+file5.txt (Line 6): Requests is a simple HTTP library for Python.
+file5.txt (Line 8): The name "Pandas" has a reference to both "Panel Data", and "Python Data Analysis" and was created by Wes McKinney in 2008.
+file6.txt (Line 2): Exception handling in Python is done using try-except blocks.
+file6.txt (Line 3): Python has built-in support for complex numbers.
+file6.txt (Line 6): The 'for' loop in Python can iterate over any iterable object.
+file6.txt (Line 8): Decorators in Python are a powerful way to modify function behavior.
+file6.txt (Line 10): Functions in Python can return multiple values.
+file7.txt (Line 1): Decorators in Python are a powerful way to modify function behavior.
+file7.txt (Line 2): Generators in Python allow you to iterate over data lazily.
+file7.txt (Line 3): Python's 'import' statement is used to include modules in your code.
+file7.txt (Line 6): The Python standard library provides a wide range of modules.
+file7.txt (Line 7): Scikit-learn is a machine learning library for Python.
+file7.txt (Line 9): Python supports object-oriented programming.
+file7.txt (Line 10): List comprehensions in Python offer a concise way to create lists.
+file8.txt (Line 1): Variables in Python do not need explicit declaration.
+file8.txt (Line 2): Python is a versatile programming language.
+file8.txt (Line 3): You can use list slicing to manipulate sequences in Python.
+file8.txt (Line 4): Python supports object-oriented programming.
+file8.txt (Line 5): Python supports both procedural and functional programming paradigms.
+file8.txt (Line 6): Decorators in Python are a powerful way to modify function behavior.
+file8.txt (Line 9): Python uses indentation to define code blocks.
+file8.txt (Line 10): Scikit-learn is a machine learning library for Python.
+file9.txt (Line 1): Functions in Python can return multiple values.
+file9.txt (Line 2): Dictionaries in Python are key-value pairs stored in a hash map.
+file9.txt (Line 4): Decorators in Python are a powerful way to modify function behavior.
+file9.txt (Line 6): Python's 'with' statement simplifies file handling.
+file9.txt (Line 7): Exception handling in Python is done using try-except blocks.
+file9.txt (Line 8): Generators in Python allow you to iterate over data lazily.
+file9.txt (Line 10): Python uses indentation to define code blocks.

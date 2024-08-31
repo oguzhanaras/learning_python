@@ -1,0 +1,10 @@
+NumPy aims to provide an array object that is up to 50x faster than traditional Python lists.
+Python supports both procedural and functional programming paradigms.
+Python uses indentation to define code blocks.
+Matplotlib makes easy things easy and hard things possible.
+Generators in Python allow you to iterate over data lazily.
+Python's 'import' statement is used to include modules in your code.
+List comprehensions in Python offer a concise way to create lists.
+Scikit-learn is a machine learning library for Python.
+The 'for' loop in Python can iterate over any iterable object.
+Pytest is a framework that makes building simple and scalable test cases easy.

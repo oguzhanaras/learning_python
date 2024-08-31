@@ -1,0 +1,10 @@
+Python's lambda functions provide a way to create small anonymous functions.
+The 'def' keyword is used to define functions in Python.
+Seaborn makes it easy to switch between different visual representations by using a consistent dataset-oriented API.
+SQLAlchemy is a SQL toolkit and Object-Relational Mapping library.
+Python's 'import' statement is used to include modules in your code.
+Python supports object-oriented programming.
+Variables in Python do not need explicit declaration.
+Legends in Matplotlib are quite flexible in layout, placement, and what Artists they can represent.
+TensorFlow is used for deep learning models.
+The 'for' loop in Python can iterate over any iterable object.

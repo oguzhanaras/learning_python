@@ -1,0 +1,10 @@
+Decorators in Python are a powerful way to modify function behavior.
+Generators in Python allow you to iterate over data lazily.
+Python's 'import' statement is used to include modules in your code.
+Pandas can clean messy data sets, and make them readable and relevant.
+The array object in NumPy is called ndarray, it provides a lot of supporting functions that make working with ndarray very easy.
+The Python standard library provides a wide range of modules.
+Scikit-learn is a machine learning library for Python.
+PyTorch is an open source machine learning library.
+Python supports object-oriented programming.
+List comprehensions in Python offer a concise way to create lists.

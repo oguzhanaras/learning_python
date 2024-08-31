@@ -1,0 +1,10 @@
+Generators in Python allow you to iterate over data lazily.
+Python supports object-oriented programming.
+Exception handling in Python is done using try-except blocks.
+Functions in Python can return multiple values.
+Python is a versatile programming language.
+Django as a framework is capable of building a complete CMS.
+Pytest is a framework that makes building simple and scalable test cases easy.
+Python's 'import' statement is used to include modules in your code.
+Python is widely used for data analysis and machine learning.
+You can use list slicing to manipulate sequences in Python.

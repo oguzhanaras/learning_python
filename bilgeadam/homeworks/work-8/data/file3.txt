@@ -1,0 +1,10 @@
+SQLAlchemy is a SQL toolkit and Object-Relational Mapping library.
+Decorators in Python are a powerful way to modify function behavior.
+Python supports both procedural and functional programming paradigms.
+Python supports object-oriented programming.
+Pytest is a framework that makes building simple and scalable test cases easy.
+Pandas is a powerful data analysis library.
+Python's 'with' statement simplifies file handling.
+Django is a high-level Python web framework.
+Variables in Python do not need explicit declaration.
+PyTorch can be installed and used on various Windows distributions.

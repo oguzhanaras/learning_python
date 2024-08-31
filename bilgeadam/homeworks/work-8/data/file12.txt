@@ -1,0 +1,10 @@
+Generators in Python allow you to iterate over data lazily.
+BeautifulSoup is used for web scraping.
+Python's 'import' statement is used to include modules in your code.
+List comprehensions in Python offer a concise way to create lists.
+Keras allows users to produce deep models on smartphones (iOS and Android), on the web, or on the Java Virtual Machine.
+Scikit-learn is a machine learning library for Python.
+Variables in Python do not need explicit declaration.
+Python uses indentation to define code blocks.
+Python has built-in support for complex numbers.
+Although the Python interface is more polished and the primary focus of development, PyTorch also has a C++ interface.
