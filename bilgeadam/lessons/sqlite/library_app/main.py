@@ -48,7 +48,8 @@ while True:
         elif islem == "6":
             uye_id = int(input("üye id giriniz: "))
             kitap_id = int(input("kitap id giriniz: "))
-            utils.delivery_book(uye_id, kitap_id)
+            if utils.delivery_book(uye_id, kitap_id):
+                print("kitap basariyla teslim edildi")
         else:
             print("hatali işlem")
     except:
