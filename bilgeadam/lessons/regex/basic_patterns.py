@@ -89,4 +89,35 @@ print(matches2)
 
 
 
+# example 5 : | pipe
 
+text = "I have a cat and dog. My cat is cute."
+pattern = r"cat|dog"
+matches = re.findall(pattern, text)
+print(matches)
+
+
+# exam 6: ^ caret
+text = "10 is a number."
+pattern = r"^1"
+match = re.search(pattern, text)
+print(match)
+
+# exam 7  $ ends with
+text = "My number is 123-44-61"
+pattern = r"\d$"
+match = re.search(pattern, text)
+print(match)
+
+# exam 8: [] a set of characters
+text = "abc ABC def DEF 123 abc_123"
+pattern = r"[a-z]"
+matches = re.findall(pattern, text)
+print(matches)
+
+
+# exam 9: matching characters exclude
+text = "banana orange apple pear strawberry"
+pattern = r"[^aei]\w[aeiou]"
+matches = re.findall(pattern, text)
+print(matches)
